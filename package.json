@@ -1,5 +1,5 @@
 {
-  "name": "@xzdarcy/react-timeline-editor",
+  "name": "@Gadzooks43/react-timeline-editor-sd-2025",
   "version": "0.1.9",
   "author": "xzdarcy",
   "license": "MIT",
@@ -16,7 +16,7 @@
   "homepage": "https://github.com/xzdarcy/react-timeline-editor#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xzdarcy/react-timeline-editor.git"
+    "url": "git+https://github.com/Gadzooks43/react-timeline-editor-sd-2025.git"
   },
   "scripts": {
     "start": "dumi dev",
