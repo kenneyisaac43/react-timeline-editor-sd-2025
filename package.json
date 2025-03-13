@@ -23,6 +23,7 @@
     "docs:build": "dumi build",
     "docs:deploy": "",
     "build": "father-build",
+    "prepare": "npm run build",
     "deploy": "npm run docs:build && npm run docs:deploy",
     "prepublishOnly": "npm run build"
   },
